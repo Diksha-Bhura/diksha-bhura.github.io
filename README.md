@@ -7,8 +7,8 @@
        &nbsp;&nbsp;&nbsp; ◌ Power Platform  
        &nbsp;&nbsp;&nbsp; ◌ Microsoft Graph  
 • 📖 Notebooks  
-       ◌ [SPFx](https://github.com/Diksha-Bhura/SPFx)  
-       ◌ [PowerShell](https://github.com/Diksha-Bhura/powerShell)
+       &nbsp;&nbsp;&nbsp; ◌ [SPFx](https://github.com/Diksha-Bhura/SPFx)  
+       &nbsp;&nbsp;&nbsp; ◌ [PowerShell](https://github.com/Diksha-Bhura/powerShell)
 
 ## Let's Connect
 💼 LinkedIn [Diksha Bhura](https://www.linkedin.com/in/dikshabhura/)  

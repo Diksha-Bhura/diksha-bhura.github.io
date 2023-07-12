@@ -3,8 +3,8 @@
 • 👩🏻‍💻 I am currently working as an independent M365 Consultant.  
 • 🔥 Passionate about learning more and contributing to the community.  
 • 💗 Love working in  
-       &nbsp;&nbsp; ◌ SharePoint  
-       &nbsp;&nbsp; ◌ Power Platform  
+       &nbsp;&nbsp;&nbsp; ◌ SharePoint  
+       &nbsp;&nbsp;&nbsp; ◌ Power Platform  
        ◌ Microsoft Graph  
 • 📖 Notebooks  
        ◌ [SPFx](https://github.com/Diksha-Bhura/SPFx)  

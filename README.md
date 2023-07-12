@@ -9,6 +9,7 @@
 • 📖 Notebooks  
        &nbsp;&nbsp;&nbsp; ◌ [SPFx](https://github.com/Diksha-Bhura/SPFx)  
        &nbsp;&nbsp;&nbsp; ◌ [PowerShell](https://github.com/Diksha-Bhura/powerShell)
+       &nbsp;&nbsp;&nbsp; ◌ [.Net](https://github.com/Diksha-Bhura/hack-together)
 
 ## Let's Connect
 💼 LinkedIn [Diksha Bhura](https://www.linkedin.com/in/dikshabhura/)  

@@ -5,7 +5,7 @@
 • 💗 Love working in  
        &nbsp;&nbsp;&nbsp; ◌ SharePoint  
        &nbsp;&nbsp;&nbsp; ◌ Power Platform  
-       &nbsp; ◌ Microsoft Graph  
+       &nbsp;&nbsp;&nbsp; ◌ Microsoft Graph  
 • 📖 Notebooks  
        ◌ [SPFx](https://github.com/Diksha-Bhura/SPFx)  
        ◌ [PowerShell](https://github.com/Diksha-Bhura/powerShell)

@@ -1,4 +1,4 @@
-## Hey, Diksha Bhura (❁´◡`❁) 
+## Hey, Diksha Bhura (❁´◡`❁)  
 
 • 👩🏻‍💻 I am currently working as an independent M365 Consultant.  
 • 🔥 Passionate about learning more and contributing to the community.  

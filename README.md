@@ -8,5 +8,5 @@
         Microsoft Graph
 
 ## Let's Connect
-💼 LinkedIn [Diksha Bhura](https://www.linkedin.com/in/dikshabhura/)
-💙 Twitter [Diksha Bhura](https://twitter.com/BhuraDiksha)
+!💼 LinkedIn [Diksha Bhura](https://www.linkedin.com/in/dikshabhura/)
+!💙 Twitter [Diksha Bhura](https://twitter.com/BhuraDiksha)
